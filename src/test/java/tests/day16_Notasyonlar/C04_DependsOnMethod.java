@@ -1,4 +1,4 @@
-package day16_Notasyonlar;
+package tests.day16_Notasyonlar;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

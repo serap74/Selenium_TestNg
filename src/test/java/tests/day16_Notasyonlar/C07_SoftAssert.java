@@ -1,4 +1,4 @@
-package day16_Notasyonlar;
+package tests.day16_Notasyonlar;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

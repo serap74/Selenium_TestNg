@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c25b224-e518-403f-a1be-e5e215443776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C01_Before_AfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C01_Before_AfterMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C02_Before_AfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C02_Before_AfterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C03_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C03_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C04_DependsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C04_DependsOnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C05_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C05_Assertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C06_Soft_Assert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C06_Soft_Assert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C07_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C07_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_Notasyonlar/C08_Hoca07Cozum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_Notasyonlar/C08_Hoca07Cozum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,51 +38,55 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/soner/IdeaProjects/com.TestNG_Batch59/src/test/java/testss",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\soner\IdeaProjects\com.TestNG_Batch59\src\test\java\testss" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utulities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C08_Hoca07Cozum.test01">
-    <configuration name="C06_Soft_Assert" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C02_PageClassKullanim.test01">
+    <configuration name="C01_yeniDriver_İlkClass.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_Notasyonlar.*" />
+          <option name="PATTERN" value="tests.day17_pom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_Notasyonlar" />
-      <option name="MAIN_CLASS_NAME" value="day16_Notasyonlar.C06_Soft_Assert" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="tests.day17_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C01_yeniDriver_İlkClass" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Soft_Assert.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_PageClassKullanim.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_Notasyonlar.*" />
+          <option name="PATTERN" value="tests.day17_pom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_Notasyonlar" />
-      <option name="MAIN_CLASS_NAME" value="day16_Notasyonlar.C06_Soft_Assert" />
+      <option name="PACKAGE_NAME" value="tests.day17_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C02_PageClassKullanim" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -142,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_PageClassKullanim.test01" />
+        <item itemvalue="TestNG.C01_yeniDriver_İlkClass.test01" />
         <item itemvalue="TestNG.C08_Hoca07Cozum.test01" />
         <item itemvalue="TestNG.C07_SoftAssert.test01" />
         <item itemvalue="TestNG.C07_SoftAssert" />
-        <item itemvalue="TestNG.C06_Soft_Assert.test01" />
-        <item itemvalue="TestNG.C06_Soft_Assert" />
       </list>
     </recent_temporary>
   </component>
